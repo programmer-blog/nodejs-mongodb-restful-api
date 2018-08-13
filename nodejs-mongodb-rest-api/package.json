@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-mongodb-rest-api",
+  "version": "1.0.0",
+  "description": "RESTful web service using noejs mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "keywords": [
+    "RESTful web services",
+    "Nodejs MongoDB",
+    "Rest API"
+  ],
+  "author": "Programmer Blog",
+  "license": "ISC",
+  "homepage": "http://programmerblog.net",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6"
+  }
+}
