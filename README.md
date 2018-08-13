@@ -1,4 +1,4 @@
-# Nodejs-Mongodb-RESTful-api
+# NodeJS-Mongodb-RESTful-api
 Please visit: http://programmerblog.net/
 
 Source code for article on how to create a nodejs mongodb RESTful API
