@@ -1,5 +1,5 @@
 # NodeJS-Mongodb-RESTful-api
-Please visit: http://programmerblog.net/
+For more tutorials visit: http://programmerblog.net/
 
 Source code for article on how to create a nodejs mongodb RESTful API
 
@@ -16,5 +16,5 @@ You will perform following tasks in this tutorial.
 4. Test API using Google Chrome’s Postman extension.
 
 
-Read full article at http://programmerblog.net/nodejs-mongodb-rest-api/
+Read full tutorial at http://programmerblog.net/nodejs-mongodb-rest-api/
 
