@@ -16,5 +16,5 @@ You will perform following tasks in this tutorial.
 4. Test API using Google Chrome’s Postman extension.
 
 
-Read full tutorial at http://programmerblog.net/nodejs-mongodb-rest-api/
+Read more at http://programmerblog.net/nodejs-mongodb-rest-api/
 
